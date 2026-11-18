@@ -23,7 +23,7 @@ pipeline {
         CONTAINER       = 'midterm-api'
         APP_PORT        = '8000'
         PUBLIC_URL      = 'http://13.62.195.247:8000'
-        NOTIFY_TO       = 'usmanmajeed879@gmail.com'
+        NOTIFY_TO       = 'qasimalik@gmail.com'
         DOCKERHUB_CREDS = 'dockerhub-creds'
     }
 
