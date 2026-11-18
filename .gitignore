@@ -1,0 +1,9 @@
+artifacts/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+prev_metrics.json
+metrics.json
+report.html

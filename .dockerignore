@@ -1,0 +1,13 @@
+.git
+.gitignore
+.gitattributes
+artifacts
+__pycache__
+*.pyc
+.pytest_cache
+Jenkinsfile
+README.md
+scripts
+*.html
+prev_metrics.json
+metrics.json
